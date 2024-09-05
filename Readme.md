@@ -10,7 +10,7 @@
 
 <table>
     <tr>
-        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="https://tyrrrz.me/donate">Consider donating to support!</a></b></td>
+        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="https://PUT_HERE_MY_LINK_LATER/donate">Consider donating to support!</a></b></td>
     </tr>
 </table>
 
