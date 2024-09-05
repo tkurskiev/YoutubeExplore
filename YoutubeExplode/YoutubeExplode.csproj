@@ -13,6 +13,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="c:\packages\deorcify\1.0.2\contentFiles\cs\any\Deorcify\Initializer.cs" />
+    <Compile Remove="c:\packages\deorcify\1.0.2\contentFiles\cs\any\Deorcify\Initializer.Utils.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="../favicon.png" Pack="true" PackagePath="" Visible="false" />
   </ItemGroup>
 
